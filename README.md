@@ -1,7 +1,7 @@
 # hpbar-script
 
-HP Bar script for pygame using Python 2.
+Health Bar script for pygame using Python 2.
+Please note: script is not fully functional
 
-Author: kp16
-
-Date: 28/09/2013
+Author: kap16
+Created: 28/09/2013
